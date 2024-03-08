@@ -1,0 +1,16 @@
+.header_initial {
+  background-color: grey;
+}
+
+.header_new {
+  background-color: gold;
+}
+
+.alert-font {
+    font-size:15px !important;
+    color:red;
+}
+.note-font {
+    font-size:15px !important;
+    color:red;
+}
